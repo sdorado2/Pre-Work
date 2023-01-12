@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<style = 'text/css'>
+	a{
+		color : purple;
+	}
+	
+	body{
+		background-color : #25383D;
+	}
+		
+	h2{
+		font-family : monospace;
+		text-decoration : underline;
+	}
+	
+	li{
+		text-style : oblique 90deg;
+	}
+	
+	nav{
+		background-color : #fda50f;
+	}
+	
+	p{
+		font-size : 14pt;
+		color : #fda50f;
+	}
+	
+</style>
+
+<nav>
+	<a href = 'index.html'>Main Page </a>
+</nav>
+
+<head>
+	<title> Page 2 </title>
+</head>
+
+<body>
+	<h2>Page 2</h2>
+	
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/JcOfFeKXcd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
+	<p>
+		In my free time, I would usually watch random videos in youtube. The algorithm would suggest videos some 'interesting' videos. Other times, I would watch football/soccer games. This November and December, I had the chance to watch most of the world cup games. After the world cup, I started playing a new game in my nintendo switch. I need to start tackling my backlog of games. &#128528
+	</p>
+
+	<table width : 75% border : solid>
+		<tr>
+			<th>steam</th>
+			<th>Switch</th>
+			<th>PSvita</th>
+		</tr>
+		<tr>
+			<th>300+</th></th>
+			<th>10+</th>
+			<th>8</th>
+		</tr>
+	</table>
+
+</body>
+
+
+</html>

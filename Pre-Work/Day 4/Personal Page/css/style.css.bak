@@ -1,0 +1,90 @@
+<style = 'text/css'>	
+	a{
+		color : purple;
+	}
+	
+	body{
+		background-color : #25383D;
+	}
+	
+	header{
+		position : fixed;
+		top : 0;
+		height : 50px;
+		width : 100%;
+	}
+	
+	h2{
+		color : #fda50f;
+		font-family : monospace;
+		text-decoration : underline;
+	}
+	
+	h3{
+		color : #fda50f;
+		margin : 1px;
+	}
+	
+	li{
+		text-style : oblique 90deg;
+	}
+
+	label{
+		color : #fda50f;
+	}
+	
+	input[type=text]{
+		color : #fda50f;	
+	}	
+		
+	input[type=text]:focus{
+		background-color : #fda50f;
+		color : black;
+	}
+
+	input[type=button]{
+		color : black;
+		border-color : black;
+		margin-top : 10px; 
+		margin-left : 50px;
+	}		
+	
+	input[type=button]:hover{
+		background-color : navy ;
+		color : #fda50f;
+	}
+	
+	nav{
+		background-color : #fda50f;
+	}
+	
+	p{
+		color : #fda50f;
+		font-size : 14pt;
+	}
+		
+	ul{
+		color : green;
+		text-style : oblique 90deg;
+	}
+	
+	.align{
+		max-width : 600px;
+		margin : 0 auto;
+	}
+
+	#write{
+		font-family : georgia, monospace;
+		font-size : 14pt;
+	}
+	
+	#fixed-left{
+		background : #25383d;
+		border-color : black;
+		position : fixed;
+		bottom : 0;
+		right : 0;
+		max-width : 300px;
+	}
+	
+</style>

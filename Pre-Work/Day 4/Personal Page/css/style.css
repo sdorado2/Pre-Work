@@ -1,0 +1,99 @@
+	a{
+		color : purple;
+	}
+	
+	body{
+		background-color : #25383D;
+	}
+	
+	header{
+		position : fixed;
+		top : 0;
+		height : 50px;
+		width : 200px;
+	}
+	
+	h2{
+		color : #fda50f;
+		font-family : monospace;
+		text-decoration : underline;
+	}
+	
+	h3{
+		color : #fda50f;
+		margin : 1px;
+	}
+	
+	li{
+		color : #fda50f;
+		font-style : oblique;
+	}
+
+	label{
+		color : #fda50f;
+	}
+
+	img{
+		margin : auto;
+	}
+	
+	input[type=text]{
+		color : #fda50f;	
+	}	
+		
+	input[type=text]:focus{
+		background-color : #fda50f;
+		color : black;
+	}
+
+	input[type=button]{
+		color : black;
+		border-color : black;
+		margin-top : 10px; 
+		margin-left : 50px;
+	}		
+	
+	input[type=button]:hover{
+		background-color : navy ;
+		color : #fda50f;
+	}
+	
+	nav{
+		background-color : #fda50f;
+	}
+	
+	p{
+		color : #fda50f;
+		font-size : 14pt;
+	}
+		
+/*	ul{
+		color : green;
+		font-style : italic 90deg;
+	}
+*/	
+	.align{
+		max-width : 600px;
+		margin : 0 auto;
+	}
+	
+	.color{
+		color : #fda50f;
+	}
+
+	#write{
+		font-family : georgia, monospace;
+		font-size : 14pt;
+	}
+	
+	#fixed-left{
+		background : #25383d;
+		border-color : #fda50f;
+		border-style: solid;
+		border-radius: 5px;
+		position : fixed;
+		bottom : 0;
+		right : 0;
+		max-width : 300px;
+	}
+	

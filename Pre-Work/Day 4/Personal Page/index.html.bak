@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel='stylesheet' type='text/css' href='css/style.css'>
+	<title>Salvador Dorado</title>
+</head>
+
+
+<body>
+	<header>
+		<nav>
+			Main |
+			<a href = 'pages/page2.html'>Page 2</a>
+		</nav>
+		<h2>Salvador Dorado</h2>
+		<h3>Welcome Visitor</h3>
+	</header>
+	
+	<div class='align'>
+		<a href =' https://external-preview.redd.it/S9BKkArSJ6w-e0eWaAmNaxmy02SrFd_A6xBVyfBH7kE.jpg?width=960&crop=smart&auto=webp&s=cd41839adc4208c544b8e4f2342ad7690b0dbe58'>
+		<img src = 'img/lazy.jpg' > 
+		</a>
+
+		<p>
+		Click in the picture!
+		</p>
+
+
+		<p id = 'write'>Hello, I'm a computer technician that had been working as a Helpdesk Analyst for the past 6 years. Recently, I left my job looking to challenge myself in a different field. Previously, I had taken a few course in programming. Now, I wish to further develop these skill and see how far I can go.
+		</p>
+
+	
+		<p>Work In Progress	
+			<ul>
+				<li> HTML </li>
+				<li> Python </li>
+				<li> CSS </li>
+			</ul>
+		</p>
+	</div>
+	
+	<div id='fixed-left'>
+	<form>
+		<h3 id='suggest'>Suggestions?</h3>
+		<label>Feel free to share your thoughs.</label><br>
+		<input type='text' name='free'><br>
+		<input type='button' name='submit' value='submit'><br>
+	</form>
+	</div>
+	
+</body>
+</html>
